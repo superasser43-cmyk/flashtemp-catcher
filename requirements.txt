@@ -1,0 +1,4 @@
+playwright>=1.40
+pyperclip>=1.8
+# Optional: desktop notifications
+# plyer
